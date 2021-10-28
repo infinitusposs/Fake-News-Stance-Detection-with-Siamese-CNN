@@ -1,4 +1,4 @@
-# CMPT 413 Project
+# Fake News Stance Detection with Siamese Convolutional Neural Network
 
 ## Introduction
 
